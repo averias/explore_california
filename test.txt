@@ -1,4 +1,4 @@
 stress tests
 e2e tests
 unit tests
-smoke tests
+regression tests
