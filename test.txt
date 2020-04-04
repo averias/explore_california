@@ -1,5 +1,5 @@
 stressful tests
 e2e tests
-unit or solo tests
+integration tests
 functional tests
 smoke tests
