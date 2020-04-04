@@ -1,4 +1,7 @@
 stress tests
 e2e tests
 unit tests
-functional
+functional tests
+smoke tests
+
+
