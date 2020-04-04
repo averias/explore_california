@@ -1,5 +1,5 @@
-stress tests
+stressful tests
 e2e tests
 unit tests
 functional tests
-
+smoke tests
